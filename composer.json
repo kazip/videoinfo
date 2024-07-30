@@ -1,4 +1,7 @@
 {
+  "name": "kazip/videoinfo",
+  "type": "library",
+  "description": "Get basic video info",
   "license": "MIT",
   "authors": [
     {
